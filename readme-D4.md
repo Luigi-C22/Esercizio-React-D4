@@ -1,3 +1,5 @@
+Esercizio React M5-D4
+
 Continuiamo a lavorare su EPICBOOKS!
 1. Se ancora non lo hai fatto, crea lo stato all'interno di SingleBook e inserisci una proprietà booleana di nome selected.
 Cliccando sulla copertina di un libro, la proprieta' selected deve cambiare valore.
